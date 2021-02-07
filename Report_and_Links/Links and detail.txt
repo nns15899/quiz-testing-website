@@ -1,0 +1,13 @@
+----------------- INT(frontend web developer)----------
+Name: Nirbhay Narayan Singh
+Section and Roll no: RKM086B42
+Registration no: 11803895
+
+1) Github link219
+  https://github.com/nns15899/Online-Quiz-website-test-your-knowledge-
+
+2) Youtube video link
+  https://www.youtube.com/watch?v=-IzCAevgLmg&feature=youtu.be
+
+3) My Live Website Do check it
+  http://int219quiz.surge.sh/
